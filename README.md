@@ -5,7 +5,7 @@ Desenvolvedor Full-Stack em formação, com experiência em projetos práticos q
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyDamasio&show_icons=true&theme=dark)](https://github.com/KaikyDamasio)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyDamasio)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
