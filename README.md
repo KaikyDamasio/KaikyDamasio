@@ -1,21 +1,19 @@
 ### Olá 👋
 
 ###### Sobre o Kaiky
-2 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento web, automações e outros.
-
+Desenvolvedor Full-Stack em formação, com experiência em projetos práticos que envolvem a criação de interfaces responsivas, automação de tarefas, versionamento de código e deploy de aplicações web.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyDamasio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyDamasio&show_icons=true&theme=dark)](https://github.com/KaikyDamasio)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaikyDamasio&repo=KaikyDamasio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaikyDamasio&repo=KaikyDamasio.github.io&theme=dark)](https://github.com/KaikyDamasio/KaikyDamasio.github.io)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyDamasio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyDamasio&layout=compact&theme=dark)](https://github.com/KaikyDamasio)
 
 ### Contatos
 
