@@ -19,12 +19,14 @@
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-blue?style=for-the-badge&logo=Cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=Jest&logoColor=white)
+![Docker](https://img.shields.io/badge/%20Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=Gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-orange?style=for-the-badge&logo=Grunt&logoColor=white)
-![Docker](https://img.shields.io/badge/%20Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)
+
+
 
 
 
