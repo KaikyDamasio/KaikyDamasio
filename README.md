@@ -12,8 +12,6 @@
 ### 🛠️ Technologies
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
-
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
