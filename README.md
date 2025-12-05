@@ -8,7 +8,6 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Em formação no curso Desenvolvedor Full Stack Java – EBAC
 - 📍 Magé – RJ
-- 📅 Nascido em 06/03/2006
   
 ### 🛠️ Technologies
 
