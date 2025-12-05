@@ -2,14 +2,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85EA2D&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;)
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mim
 
 - 🤓 Me chamo Kaiky Damasio, desenvolvedor Full-Stack em formação
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - 💻 Em formação no curso Desenvolvedor Full Stack Java – EBAC
 - 📍 Magé – RJ
   
-### 🛠️ Technologies
+### 🛠️ Tecnologias
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Java%20Script-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
