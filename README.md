@@ -4,9 +4,8 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🤓 Me chamo Kaiky Damasio, desenvolvedor Full-Stack em formação
+- 🤓 Me chamo Kaiky Damasio, desenvolvedor Full-Stack com +3 anos de experiência
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 💻 Em formação no curso Desenvolvedor Full Stack Java – EBAC
 - 📍 Magé – RJ
   
 ### 🛠️ Tecnologias
