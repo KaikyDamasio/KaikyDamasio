@@ -35,4 +35,4 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/in/arleytorres)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/in/kaikydamasio)
